@@ -125,8 +125,3 @@ Connectify/
 ![Export to Excel](screenshots/ss8.png)
 
 ## License
-
-This project is licensed under the MIT License.
-=======
->>>>>>> 7a6e21108ddce93c47442ee7e43302bd4a4f3c1d
-
